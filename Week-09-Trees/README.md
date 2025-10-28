@@ -18,13 +18,15 @@
 0. Live coding lecture [30min]
 0. Breakout Rooms
 
-<br>
-<br>
-
 ## Homework
 
 ### Pre-Class Videos [~2-3hr]
-0. [Open Source Models with HuggingFace](https://learn.deeplearning.ai/courses/open-source-models-hugging-face/lesson/2/selecting-models)
+0. [Intro to Hugging Face](https://www.youtube.com/watch?v=3kRB2TXewus) [8 mins].
+1. [Huggingface basics](https://www.youtube.com/watch?v=QEaBAZQCtwE): Transformers, Pipeline, Tokenizer, Models. [15 mins]
+2. [Deploying a Gradio app in Huggingface](https://www.youtube.com/watch?v=7Ftc0GRY_y0)
+	- [Link to the HF space](https://huggingface.co/spaces/kumaresankp/Text-to-Speech) in the video. [5 mins] 
+
+3. [Open Source Models with HuggingFace](https://learn.deeplearning.ai/courses/open-source-models-hugging-face/lesson/2/selecting-models)
 0. Upload an screenshot showing you completed the course 100% to the slack message.  
 ![alt text](images/image.png)
 
