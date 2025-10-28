@@ -4,6 +4,8 @@
 0. Job Hunt Story time... 
 0. Remind me to start recording
 0. Read Annoucments Slack Message
+1. Demo of your demo is due Week 10 (Week of Nov 03). 
+2. Demo night is usually a day within the week of 12/8.  We do not have exact day yet, but will let you know when we do.
 0. TA Chat Engagement: Best Student Awards at end of class [HW pass] ⭐⭐⭐
 0. At end of class, award 2 awards.  Chat Hero award // Live hero award. 
 0. Be active in chat.  TA is mod, Zack doesn’t really watch it.  
